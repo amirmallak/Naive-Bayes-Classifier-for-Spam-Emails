@@ -10,4 +10,4 @@ This project tackles,
 * Efficient Classifier implimantation based on Naive Bayes Probability computations
 * Data cleaning and representation
 
-Via efficient and well built mathematical algorithms and calculations, the Trained classifier reaches a stunning **99.22% accuracy over 900 Test Data emails!
+Via efficient and well built mathematical algorithms and calculations, the Trained classifier reaches a stunning **99.22% accuracy** over 900 Test Data emails!
