@@ -31,6 +31,7 @@ def naive_bayes_classifier() -> None:
     spam_probability = sum(1 * (training_set['label'] == 1)) / len(training_set['label'])
 
     print('Done Training!\n\n')
+
     # Testing the Classifier
     print('--- Testing The Classifier ---\n')
     test_non_spam_email = 'Hi Jem, have you finished you\'re assignment yet?'
