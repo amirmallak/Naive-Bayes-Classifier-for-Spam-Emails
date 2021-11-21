@@ -1,7 +1,6 @@
 import pandas as pd
 
 from typing import List, Dict
-
 from creating_vocabulary import _vocabulary_creating
 from email_classification import classify_email
 from pre_processing import _pre_processing
