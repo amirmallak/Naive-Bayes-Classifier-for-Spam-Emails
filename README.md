@@ -1,4 +1,4 @@
-# Naive-Bayes-Classifier-for-Spam-Emails
+# Naive-Bayes-Classifier-for-Spam-Emails 99.22% Accuray
 
 Implementing a Naive Bayes Classifier for classifying emails into Ham and Spam emails.
 
